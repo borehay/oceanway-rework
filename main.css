@@ -63,6 +63,7 @@ h2 {
   font-weight: bold;
   margin-bottom: 30px;
   color: #FFF;
+  text-shadow: 5px 5px #111;
 }
 
 h3 {
@@ -100,4 +101,20 @@ ul ul li {
 
 footer p {
   text-align: center;
+}
+
+form {
+  margin-bottom: 15px;
+}
+
+textarea, input[type=email] {
+  font-size: 16px;
+  font-family: Helvetica, sans-serif;
+  width: 300px;
+    padding: 5px;
+}
+
+textarea {
+  height: 100px;
+
 }
