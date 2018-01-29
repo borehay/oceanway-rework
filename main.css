@@ -20,7 +20,7 @@ body {
   padding: 15px;
 }
 
-h1, h2, h3 {
+h1, h2, h3, .nav {
   font-family: DIN, 'Alte-DIN-1451-Mittelschrift', Helvetica, sans-serif;
 }
 .header h1 {
