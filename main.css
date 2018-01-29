@@ -14,13 +14,13 @@ main {
   font-size: 16px;
 }
 
-header, main, .footer {
+header, main, footer {
   width: 600px;
   margin: 0 auto 0 auto;
   padding: 15px;
 }
 
-h1, h2, h3, nav {
+h1, h2, h3, nav, footer {
   font-family: 'Alte-DIN-1451-Mittelschrift', Helvetica, sans-serif;
 }
 header h1 {
