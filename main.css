@@ -1,3 +1,14 @@
+@font-face {
+    font-family: 'Alte-DIN-1451-Mittelschrift';
+    src:url('type/Alte-DIN-1451-Mittelschrift.ttf.woff') format('woff'),
+        url('type/Alte-DIN-1451-Mittelschrift.ttf.svg#Alte-DIN-1451-Mittelschrift') format('svg'),
+        url('type/Alte-DIN-1451-Mittelschrift.ttf.eot'),
+        url('type/Alte-DIN-1451-Mittelschrift.ttf.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 body {
   font-family: Helvetica, sans-serif;
   font-size: 16px;
